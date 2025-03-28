@@ -1,16 +1,18 @@
-## Hi there 👋
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="27%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="27%" style="display:inline;">
+<br>
 
-<!--
-**anshuman0904/anshuman0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <h1 align="center">✩&emsp;Welcome!&emsp;✩</h1>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <h3 align="center"> I'm Anshuman, 💻 a student at <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/in.png" width="20"/> <b> NSUT.</b> <br> Take a peek into my journey! 🚀 </h3>
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![Linkedin: Anshuman Sinha](https://img.shields.io/badge/-Let'sConnect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshumansinha3/)](https://www.linkedin.com/in/anshumansinha3/) [![GitHub](https://img.shields.io/badge/GitHub-follow-black?style=social&logo=github)](https://github.com/anshuman0904)
+
+</div>
+
