@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <h3 align="center"> I'm Anshuman, 💻 a student at <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/in.png" width="20"/> <b> NSUT.</b> <br> Take a peek into my journey! 🚀 </h3>
+  <h3 align="center"> I'm Anshuman, a student at <b> NSUT</b> <img src="https://raw.githubusercontent.com/krzysztofrewak/flat-flags-iconset/master/flags/in.png" width="20"/> <br> and currently a <b>Software Engineer Intern</b> at <b>Cisco</b>. </h3>
 </p>
 <br>
 
